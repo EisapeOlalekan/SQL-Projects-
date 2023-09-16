@@ -8,4 +8,4 @@ It is important to note that this data source is constantly updated. However, as
 ## Data Processing
 The data was processed and prepared for analysis (in SQL) using MS-Excel. Irrelevant columns were removed, the data was confirmed to be duplicates-free and the dataset was seperated into two Tables (titled CovidDeaths and CovidVaccinations) to ensure distinction and clarity of purpose while analyzing the data. The two tables were later joined in SQL during analysis.
 ## Script
-The SQL script can be found here 
+The SQL script can be found here https://github.com/EisapeOlalekan/SQL-Projects-/blob/main/dataExplorationScript
